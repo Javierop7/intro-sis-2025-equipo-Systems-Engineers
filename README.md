@@ -1,6 +1,7 @@
 # intro-sis-2025-equipo-Systems-Engineers
+
 ## Equipo e integrantes
-- Javier Ospina (@Javierop7)
+- Javier Alberto Ospina Capacho (@Javierop7)
 - Nicolás Vargas (@NicolasVar8)
 
 ## Objetivo del repositorio
@@ -9,9 +10,9 @@ Este repositorio tiene como objetivo practicar la colaboración en GitHub Web, o
 ## Tabla de tareas
 - [x] Crear repositorio y configurar colaboradores — Responsable: Javier
 - [x] Estructura de carpetas — Responsable: Nicolás
-- [ ] Documentación en `docs/` — Responsable: Ambos
-- [ ] Datos en `data/` — Responsable: Nicolás
-- [ ] Issues y PRs — Responsable: Ambos
+- [x] Documentación en `docs/` — Responsable: Ambos
+- [x] Datos en `data/` — Responsable: Nicolás
+- [x] Issues y PRs — Responsable: Ambos
 
 ## Flujo de trabajo propuesto
 1. Crear un **Issue** con la tarea.  
@@ -28,3 +29,5 @@ Este repositorio tiene como objetivo practicar la colaboración en GitHub Web, o
   - `fix: corrección de tabla en README`  
   - `src: añadido código de ejemplo en C++`  
   - `data: agregado archivo csv de ejemplo`
+
+  
