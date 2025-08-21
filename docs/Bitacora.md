@@ -3,7 +3,7 @@
 
 ### 📄 **docs/bitacora.md**
 ```markdown
-# Bitácora de actividades
+# Bitácora de actividades.
 
 - **21/08/2025** — Javier creó el repositorio y agregó a Nicolás como colaborador.  
 - **21/08/2025** — Nicolás organizó la estructura de carpetas.  
