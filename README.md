@@ -15,7 +15,7 @@ Este repositorio tiene como objetivo practicar la colaboración en GitHub Web, o
 - [x] Issues y PRs — Responsable: Ambos
 
 ## Flujo de trabajo propuesto
-1. Crear un **Issue** con la tarea.  
+1. Crear un **Issue** con una de las tarea.  
 2. Abrir una **rama** con el nombre relacionado al Issue.  
 3. Hacer cambios desde GitHub Web.  
 4. Crear una **Pull Request** vinculada al Issue.  
